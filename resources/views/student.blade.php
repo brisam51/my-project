@@ -17,7 +17,7 @@
 <h3>{{ $messege }}</h3>
         @endif
     </div>
-    <div class="card m-4" style="width: 28rem;">
+    <div class="card m-4" style="width: 30rem;">
 
         <div class="card-body">
             <div class="card-heder flex justify-content-end">
